@@ -1,0 +1,34 @@
+//
+//  PrefixHeader.pch
+//  LCF_Demo
+//
+//  Created by 李晨芳 on 2018/6/6.
+//  Copyright © 2018年 李晨芳. All rights reserved.
+
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+//#import <Masonry/Masonry.h>//自动布局
+#import "Masonry.h"
+#import "UIView+D_Category.h"
+#import "UIImageView+WebCache.h"
+#import "Tools.h"
+#define gap 30
+#define btnHeight 50
+
+#define ScreenHeight [UIScreen mainScreen].bounds.size.height//获取设备屏幕的长
+#define ScreenWidth [UIScreen mainScreen].bounds.size.width//获取设备屏幕的宽
+
+#define kScreenHeight [UIScreen mainScreen].bounds.size.height//获取设备屏幕的长
+#define kScreenWidth [UIScreen mainScreen].bounds.size.width//获取设备屏幕的宽
+#define kStateHeight [[UIApplication sharedApplication] statusBarFrame].size.height //状态栏高度
+#define kNavHeight ([[UIApplication sharedApplication] statusBarFrame].size.height + 44) //导航栏+状态栏高度
+#define kTabbarHeight  (([[UIApplication sharedApplication] statusBarFrame].size.height) > (20) ? 83 : 49 ) //底部tabbar高度
+
+#define SCREEN_WIDTH      [UIScreen mainScreen].bounds.size.width //屏宽
+#define SCREEN_HEIGHT    [UIScreen mainScreen].bounds.size.height //屏高
+//防止block循环引用
+#define WeakSelf(x)  __weak typeof(x) weakSelf = self;
+
+#endif /* PrefixHeader_pch */

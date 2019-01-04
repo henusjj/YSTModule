@@ -1,0 +1,272 @@
+{
+	"msg" : "成功",
+	"content" : {
+	"maxPrice" : 0.1,
+	"classify" : [
+{
+	"classId" : 88,
+	"classifyone" : "数码家电"
+}
+],
+	"minPrice" : 0.1,
+	"defaultSalePrice" : 0.1,
+	"standard" : [
+{
+	"standard" : 102,
+	"salePrice" : 0.1,
+	"standardId" : 2303,
+	"KuNum" : 4,
+	"specificationsid" : 2371,
+	"status" : 1
+},
+{
+	"standard" : 47,
+	"salePrice" : 0.1,
+	"standardId" : 2304,
+	"KuNum" : 10,
+	"specificationsid" : 2372,
+	"status" : 1
+},
+{
+	"standard" : 60,
+	"salePrice" : 0.1,
+	"standardId" : 2305,
+	"KuNum" : 9,
+	"specificationsid" : 2373,
+	"status" : 1
+},
+{
+	"standard" : 174,
+	"salePrice" : 0.1,
+	"standardId" : 2306,
+	"KuNum" : 6,
+	"specificationsid" : 2374,
+	"status" : 1
+},
+{
+	"standard" : 145,
+	"salePrice" : 0.1,
+	"standardId" : 2307,
+	"KuNum" : 10,
+	"specificationsid" : 2375,
+	"status" : 1
+},
+{
+	"standard" : 57,
+	"salePrice" : 0.1,
+	"standardId" : 2308,
+	"KuNum" : 10,
+	"specificationsid" : 2376,
+	"status" : 1
+},
+{
+	"standard" : 152,
+	"salePrice" : 0.1,
+	"standardId" : 2309,
+	"KuNum" : 10,
+	"specificationsid" : 2377,
+	"status" : 1
+},
+{
+	"standard" : 50,
+	"salePrice" : 0.1,
+	"standardId" : 2310,
+	"KuNum" : 10,
+	"specificationsid" : 2378,
+	"status" : 1
+},
+{
+	"standard" : 97,
+	"salePrice" : 0.1,
+	"standardId" : 2311,
+	"KuNum" : 0,
+	"specificationsid" : 2379,
+	"status" : 1
+},
+{
+	"standard" : 172,
+	"salePrice" : 0.1,
+	"standardId" : 2312,
+	"KuNum" : 0,
+	"specificationsid" : 2380,
+	"status" : 1
+},
+{
+	"standard" : 162,
+	"salePrice" : 0.1,
+	"standardId" : 2313,
+	"KuNum" : 0,
+	"specificationsid" : 2381,
+	"status" : 1
+},
+{
+	"standard" : 116,
+	"salePrice" : 0.1,
+	"standardId" : 2314,
+	"KuNum" : 9,
+	"specificationsid" : 2382,
+	"status" : 1
+},
+{
+	"standard" : 98,
+	"salePrice" : 0.1,
+	"standardId" : 2315,
+	"KuNum" : 10,
+	"specificationsid" : 2383,
+	"status" : 1
+},
+{
+	"standard" : 138,
+	"salePrice" : 0.1,
+	"standardId" : 2316,
+	"KuNum" : 10,
+	"specificationsid" : 2384,
+	"status" : 1
+},
+{
+	"standard" : 63,
+	"salePrice" : 0.1,
+	"standardId" : 2317,
+	"KuNum" : 7,
+	"specificationsid" : 2385,
+	"status" : 1
+},
+{
+	"standard" : 91,
+	"salePrice" : 0.1,
+	"standardId" : 2318,
+	"KuNum" : 0,
+	"specificationsid" : 2386,
+	"status" : 1
+},
+{
+	"standard" : 149,
+	"salePrice" : 0.1,
+	"standardId" : 2319,
+	"KuNum" : 0,
+	"specificationsid" : 2387,
+	"status" : 1
+},
+{
+	"standard" : 94,
+	"salePrice" : 0.1,
+	"standardId" : 2320,
+	"KuNum" : 0,
+	"specificationsid" : 2388,
+	"status" : 1
+},
+{
+	"standard" : 34,
+	"salePrice" : 0.1,
+	"standardId" : 2321,
+	"KuNum" : 0,
+	"specificationsid" : 2389,
+	"status" : 1
+},
+{
+	"standard" : 37,
+	"salePrice" : 0.1,
+	"standardId" : 2322,
+	"KuNum" : 0,
+	"specificationsid" : 2390,
+	"status" : 1
+}
+],
+	"defaultNum" : 4,
+	"goodsnum" : 6,
+	"imageUrl" : "https://ph-images.oss-cn-shenzhen.aliyuncs.com/product/20180627/20180627102244197172870.png",
+	"SaleSum" : 10,
+	"pId" : 782,
+	"spec" : [
+{
+	"subspec" : [
+{
+	"name" : 102,
+	"id" : 2371
+},
+{
+	"name" : 47,
+	"id" : 2372
+},
+{
+	"name" : 60,
+	"id" : 2373
+},
+{
+	"name" : 174,
+	"id" : 2374
+},
+{
+	"name" : 145,
+	"id" : 2375
+},
+{
+	"name" : 57,
+	"id" : 2376
+},
+{
+	"name" : 152,
+	"id" : 2377
+},
+{
+	"name" : 50,
+	"id" : 2378
+},
+{
+	"name" : 97,
+	"id" : 2379
+},
+{
+	"name" : 172,
+	"id" : 2380
+},
+{
+	"name" : 162,
+	"id" : 2381
+},
+{
+	"name" : 116,
+	"id" : 2382
+},
+{
+	"name" : 98,
+	"id" : 2383
+},
+{
+	"name" : 138,
+	"id" : 2384
+},
+{
+	"name" : 63,
+	"id" : 2385
+},
+{
+	"name" : 91,
+	"id" : 2386
+},
+{
+	"name" : 149,
+	"id" : 2387
+},
+{
+	"name" : 94,
+	"id" : 2388
+},
+{
+	"name" : 34,
+	"id" : 2389
+},
+{
+	"name" : 37,
+	"id" : 2390
+}
+],
+	"name" : "颜色",
+	"id" : 1297
+}
+],
+	"name" : "Chanel香奈儿炫亮魅力丝绒唇膏持久保湿光泽口红多色 正品直邮pjyc",
+	"bonus" : "<null>"
+},
+	"code" : 1
+}

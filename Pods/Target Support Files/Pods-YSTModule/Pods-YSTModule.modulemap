@@ -1,0 +1,6 @@
+framework module Pods_YSTModule {
+  umbrella header "Pods-YSTModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
